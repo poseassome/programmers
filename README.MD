@@ -5,3 +5,4 @@
 Problem|Solution
 ---|---
 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301?language=javascript)|[풀이](./Level_1/숫자문자열과영단어/solution.js)
+[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=javascript)|[풀이](./Level_1/K번째수/solution.js)
