@@ -13,3 +13,7 @@ no|Problem|Solution
 7|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript)|[풀이](./Level_1/가운데글자가져오기/solution.js)
 8|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)|[풀이](./Level_1/같은숫자는싫어/solution.js)
 9|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript)|[풀이](./Level_1/평균구하기/solution.js)
+10|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389?language=javascript)|[풀이](./Level_1/나머지가1이되는수찾기/solution.js)
+11|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[풀이](./Level_1/완주하지못한선수/solution.js)
+12|[최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|[풀이](./Level_1/최대공약수와최소공배수/solution.js)
+13|[직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|[풀이](./Level_1/직사각형별찍기/solution.js)
