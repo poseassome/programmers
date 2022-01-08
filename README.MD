@@ -17,3 +17,5 @@ no|Problem|Solution
 11|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[풀이](./Level_1/완주하지못한선수/solution.js)
 12|[최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript)|[풀이](./Level_1/최대공약수와최소공배수/solution.js)
 13|[직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|[풀이](./Level_1/직사각형별찍기/solution.js)
+14|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[풀이](./Level_1/짝수와홀수/solution.js)
+15|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=javascript)|[풀이](./Level_1/두정수사이의합/solution.js)
