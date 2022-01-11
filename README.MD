@@ -19,6 +19,7 @@ no|Problem|Solution
 13|[직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript)|[풀이](./Level_1/직사각형별찍기/solution.js)
 14|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)|[풀이](./Level_1/짝수와홀수/solution.js)
 15|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=javascript)|[풀이](./Level_1/두정수사이의합/solution.js)
+16|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=javascript)|[풀이](./Level_1/없는숫자더하기/solution.js)
 
 ## Level 2
 no|Problem|Solution
