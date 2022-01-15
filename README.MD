@@ -26,3 +26,4 @@ no|Problem|Solution
 no|Problem|Solution
 ---|---|---
 1|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=javascript)|[풀이](./Level_2/짝지어제거하기/solution.js)
+2|[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=javascript)|[풀이](./Level_2/[1차]캐시/solution.js)
