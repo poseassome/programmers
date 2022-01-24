@@ -21,6 +21,7 @@ no|Problem|Solution
 15|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=javascript)|[풀이](./Level_1/두정수사이의합/solution.js)
 16|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=javascript)|[풀이](./Level_1/없는숫자더하기/solution.js)
 17|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=javascript)|[풀이](./Level_1/문자열내p와y의개수/solution.js)
+18|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)|[풀이](./Level_1/문자열내림차수능로배치하기/solution.js)
 
 ## Level 2
 no|Problem|Solution
