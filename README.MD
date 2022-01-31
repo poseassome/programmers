@@ -23,6 +23,7 @@ no|Problem|Solution
 17|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=javascript)|[풀이](./Level_1/문자열내p와y의개수/solution.js)
 18|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)|[풀이](./Level_1/문자열내림차수능로배치하기/solution.js)
 19|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript)|[풀이](./Level_1/문자열다루기기본/solution.js)
+20|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)|[풀이](./Level_1/모의고사/solution.js)
 
 ## Level 2
 no|Problem|Solution
