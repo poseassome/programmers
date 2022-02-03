@@ -25,6 +25,7 @@ no|Problem|Solution
 19|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript)|[풀이](./Level_1/문자열다루기기본/solution.js)
 20|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=javascript)|[풀이](./Level_1/모의고사/solution.js)
 21|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)|[풀이](./Level_1/실패율/solution.js)
+22|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612?language=javascript)|[풀이](./Level_1/부족한금액계산하기/solution.js)
 
 ## Level 2
 no|Problem|Solution
