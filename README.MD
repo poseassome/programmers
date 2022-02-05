@@ -27,6 +27,7 @@ no|Problem|Solution
 21|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=javascript)|[풀이](./Level_1/실패율/solution.js)
 22|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612?language=javascript)|[풀이](./Level_1/부족한금액계산하기/solution.js)
 23|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript)|[풀이](./Level_1/수박수박수박수박수박수/solution.js)
+24|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=javascript)|[풀이](./Level_1/문자열을정수로바꾸기/solution.js)
 
 ## Level 2
 no|Problem|Solution
