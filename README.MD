@@ -33,6 +33,7 @@ no|Problem|Solution
 27|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982?language=javascript)|[풀이](./Level_1/예산/solution.js)
 28|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript)|[풀이](./Level_1/자연수뒤집어배열로만들기/solution.js)
 29|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|[풀이](./Level_1/서울에서김서방찾기/solution.js)
+30|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)|[풀이](./Level_1/정수내림차순으로배치하기/solution.js)
 
 ## Level 2
 no|Problem|Solution
