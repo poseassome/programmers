@@ -35,6 +35,7 @@ no|Problem|Solution
 29|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|[풀이](./Level_1/서울에서김서방찾기/solution.js)
 30|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript)|[풀이](./Level_1/정수내림차순으로배치하기/solution.js)
 31|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=javascript)|[풀이](./Level_1/행렬의덧셈/solution.js)
+32|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|[풀이](./Level_1/제일작은수제거하기/solution.js)
 
 ## Level 2
 no|Problem|Solution
