@@ -37,6 +37,7 @@ no|Problem|Solution
 31|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=javascript)|[풀이](./Level_1/행렬의덧셈/solution.js)
 32|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript)|[풀이](./Level_1/제일작은수제거하기/solution.js)
 33|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[풀이](./Level_1/콜라츠추측/solution.js)
+34|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=javascript)|[풀이](./Level_1/핸드폰번호가리기/solution.js)
 
 ## Level 2
 no|Problem|Solution
