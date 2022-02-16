@@ -39,6 +39,7 @@ no|Problem|Solution
 33|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)|[풀이](./Level_1/콜라츠추측/solution.js)
 34|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=javascript)|[풀이](./Level_1/핸드폰번호가리기/solution.js)
 35|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)|[풀이](./Level_1/이상한문자만들기/solution.js)
+36|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[풀이](./Level_1/시저암호/solution.js)
 
 ## Level 2
 no|Problem|Solution
