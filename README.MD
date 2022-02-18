@@ -41,6 +41,7 @@ no|Problem|Solution
 35|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript)|[풀이](./Level_1/이상한문자만들기/solution.js)
 36|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)|[풀이](./Level_1/시저암호/solution.js)
 37|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)|[풀이](./Level_1/정수제곱근판별/solution.js)
+38|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[풀이](./Level_1/약수의합/solution.js)
 
 ## Level 2
 no|Problem|Solution
