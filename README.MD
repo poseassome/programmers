@@ -52,3 +52,4 @@ no|Problem|Solution
 2|[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=javascript)|[풀이](./Level_2/[1차]캐시/solution.js)
 3|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=javascript)|[풀이](./Level_2/최댓값과최솟값/solution.js)
 4|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=javascript)|[풀이](./Level_2/타겟넘버/solution.js)
+5|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript)|[풀이](./Level_2/기능개발/solution.js)
