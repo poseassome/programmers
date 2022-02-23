@@ -43,6 +43,7 @@ no|Problem|Solution
 37|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)|[풀이](./Level_1/정수제곱근판별/solution.js)
 38|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript)|[풀이](./Level_1/약수의합/solution.js)
 39|[최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491?language=javascript)|[풀이](./Level_1/최소직사각형/solution.js)
+40|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)|[풀이](./Level_1/하샤드수/solution.js)
 
 ## Level 2
 no|Problem|Solution
