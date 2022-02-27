@@ -56,3 +56,4 @@ no|Problem|Solution
 4|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=javascript)|[풀이](./Level_2/타겟넘버/solution.js)
 5|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript)|[풀이](./Level_2/기능개발/solution.js)
 6|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=javascript)|[풀이](./Level_2/가장큰수/solution.js)
+7|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=javascript)|[풀이](./Level_2/최솟값만들기/solution.js)
