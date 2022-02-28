@@ -46,6 +46,7 @@ no|Problem|Solution
 40|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)|[풀이](./Level_1/하샤드수/solution.js)
 41|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)|[풀이](./Level_1/2016년/solution.js)
 42|[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)|[풀이](./Level_1/소수찾기/solution.js)
+43|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)|[풀이](./Level_1/내적/solution.js)
 
 ## Level 2
 no|Problem|Solution
