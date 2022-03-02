@@ -47,6 +47,7 @@ no|Problem|Solution
 41|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=javascript)|[풀이](./Level_1/2016년/solution.js)
 42|[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921?language=javascript)|[풀이](./Level_1/소수찾기/solution.js)
 43|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=javascript)|[풀이](./Level_1/내적/solution.js)
+44|[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|[풀이](./Level_1/[1차]비밀지도/solution.js)
 
 ## Level 2
 no|Problem|Solution
