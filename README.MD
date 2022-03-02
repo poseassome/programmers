@@ -59,3 +59,4 @@ no|Problem|Solution
 5|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript)|[풀이](./Level_2/기능개발/solution.js)
 6|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=javascript)|[풀이](./Level_2/가장큰수/solution.js)
 7|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=javascript)|[풀이](./Level_2/최솟값만들기/solution.js)
+8|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|[풀이](./Level_2/H-Index/solution.js)
