@@ -51,6 +51,7 @@ no|Problem|Solution
 45|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977?language=javascript)|[풀이](./Level_1/소수만들기/solution.js)
 46|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=javascript)|[풀이](./Level_1/음양더하기/solution.js)
 47|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)|[풀이](./Level_1/폰켓몬/solution.js)
+48|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=javascript)|[풀이](./Level_1/3진법뒤집기/solution.js)
 
 ## Level 2
 no|Problem|Solution
