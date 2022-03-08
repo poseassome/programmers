@@ -52,6 +52,9 @@ no|Problem|Solution
 46|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=javascript)|[풀이](./Level_1/음양더하기/solution.js)
 47|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)|[풀이](./Level_1/폰켓몬/solution.js)
 48|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=javascript)|[풀이](./Level_1/3진법뒤집기/solution.js)
+49|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884?language=javascript)|[풀이](./Level_1/약수의개수와덧셈/solution.js)
+50|[문자열 내 마음대로 정럴하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)|[풀이](./Level_1/문자열내마음대로정렬하기/solution.js)
+50|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=javascript)|[풀이](./Level_1/키패드누르기/solution.js)
 
 ## Level 2
 no|Problem|Solution
