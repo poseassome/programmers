@@ -56,6 +56,7 @@ no|Problem|Solution
 50|[문자열 내 마음대로 정럴하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)|[풀이](./Level_1/문자열내마음대로정렬하기/solution.js)
 51|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=javascript)|[풀이](./Level_1/키패드누르기/solution.js)
 52|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=javascript)|[풀이](./Level_1/신규아이디추천/solution.js)
+53|[[1차] 다트게임]()|[풀이](./Level_1/[1차]다트게임/solution.js)
 
 ## Level 2
 no|Problem|Solution
