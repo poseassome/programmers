@@ -72,3 +72,4 @@ no|Problem|Solution
 7|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=javascript)|[풀이](./Level_2/최솟값만들기/solution.js)
 8|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|[풀이](./Level_2/H-Index/solution.js)
 8|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)|[풀이](./Level_2/프린터/solution.js)
+9|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=javascript)|[풀이](./Level_2/숫자의표현/solution.js)
