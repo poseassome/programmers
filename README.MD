@@ -74,3 +74,4 @@ no|Problem|Solution
 8|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)|[풀이](./Level_2/프린터/solution.js)
 9|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=javascript)|[풀이](./Level_2/숫자의표현/solution.js)
 10|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=javascript)|[풀이](./Level_2/카펫/solution.js)
+11|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=javascript)|[풀이](./Level_2/순위검색/solution.js)
