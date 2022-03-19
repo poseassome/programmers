@@ -77,3 +77,4 @@ no|Problem|Solution
 11|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=javascript)|[풀이](./Level_2/순위검색/solution.js)
 12|[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512?language=javascript)|[풀이](./Level_2/모음사전/solution.js)
 13|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|[풀이](./Level_2/구명보트/solution.js)
+14|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502?language=javascript)|[풀이](./Level_2/괄호회전하기/solution.js)
