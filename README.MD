@@ -78,3 +78,4 @@ no|Problem|Solution
 12|[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512?language=javascript)|[풀이](./Level_2/모음사전/solution.js)
 13|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|[풀이](./Level_2/구명보트/solution.js)
 14|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502?language=javascript)|[풀이](./Level_2/괄호회전하기/solution.js)
+15|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)|[풀이](./Level_2/다음큰숫자/solution.js)
