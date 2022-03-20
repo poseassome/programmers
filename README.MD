@@ -79,3 +79,4 @@ no|Problem|Solution
 13|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|[풀이](./Level_2/구명보트/solution.js)
 14|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502?language=javascript)|[풀이](./Level_2/괄호회전하기/solution.js)
 15|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)|[풀이](./Level_2/다음큰숫자/solution.js)
+16|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335?language=javascript)|[풀이](./Level_2/k진수에서소수개수구하기/solution.js)
