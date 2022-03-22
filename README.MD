@@ -81,3 +81,4 @@ no|Problem|Solution
 15|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)|[풀이](./Level_2/다음큰숫자/solution.js)
 16|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335?language=javascript)|[풀이](./Level_2/k진수에서소수개수구하기/solution.js)
 17|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript)|[풀이](./Level_2/다리를지나는트럭/solution.js)
+18|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=javascript)|[풀이](./Level_2/점프와순간이동/solution.js)
