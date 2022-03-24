@@ -82,3 +82,4 @@ no|Problem|Solution
 16|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335?language=javascript)|[풀이](./Level_2/k진수에서소수개수구하기/solution.js)
 17|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript)|[풀이](./Level_2/다리를지나는트럭/solution.js)
 18|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=javascript)|[풀이](./Level_2/점프와순간이동/solution.js)
+19|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[풀이](./Level_2/위장/solution.js)
