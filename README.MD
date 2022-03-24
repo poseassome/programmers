@@ -83,3 +83,4 @@ no|Problem|Solution
 17|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=javascript)|[풀이](./Level_2/다리를지나는트럭/solution.js)
 18|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=javascript)|[풀이](./Level_2/점프와순간이동/solution.js)
 19|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[풀이](./Level_2/위장/solution.js)
+20|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)|[풀이](./Level_2/1224나라의숫자/solution.js)
