@@ -85,3 +85,4 @@ no|Problem|Solution
 19|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[풀이](./Level_2/위장/solution.js)
 20|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript)|[풀이](./Level_2/124나라의숫자/solution.js)
 21|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=javascript)|[풀이](./Level_2/JadenCase문자열만들기/solution.js)c
+22|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=javascript)|[풀이](./Level_2/큰수만들기/solution.js)c
