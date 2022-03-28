@@ -87,3 +87,4 @@ no|Problem|Solution
 21|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=javascript)|[풀이](./Level_2/JadenCase문자열만들기/solution.js)c
 22|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=javascript)|[풀이](./Level_2/큰수만들기/solution.js)
 23|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=javascript)|[풀이](./Level_2/N개의최소공배수/solution.js)
+24|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129?language=javascript)|[풀이](./Level_2/이진변환반복하기/solution.js)
