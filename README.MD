@@ -93,3 +93,4 @@ no|Problem|Solution
 27|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)|[풀이](./Level_2/피보나치수/solution.js)
 28|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript)|[풀이](./Level_2/올바른괄호/solution.js)
 29|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=javascript)|[풀이](./Level_2/행렬의곱셈/solution.js)
+30|[2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885?language=javascript)|[풀이](./Level_2/2개이하로다른비트/solution.js)
