@@ -95,3 +95,4 @@ no|Problem|Solution
 29|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=javascript)|[풀이](./Level_2/행렬의곱셈/solution.js)
 30|[2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885?language=javascript)|[풀이](./Level_2/2개이하로다른비트/solution.js)
 31|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913?language=javascript)|[풀이](./Level_2/땅따먹기/solution.js)
+32|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=javascript)|[풀이](./Level_2/영어끝말잇기/solution.js)
