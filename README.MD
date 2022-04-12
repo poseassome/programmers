@@ -100,3 +100,4 @@ no|Problem|Solution
 34|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=javascript)|[풀이](./Level_2/삼각달팽이/solution.js)
 35|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341?language=javascript)|[풀이](./Level_2/주차요금계산/solution.js)
 36|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=javascript)|[풀이](./Level_2/소수찾기/solution.js)
+37|[[3차] n진수 게임]()|[풀이](./Level_2/[3차]n진수게임/solution.js)
