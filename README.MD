@@ -102,3 +102,8 @@ no|Problem|Solution
 36|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=javascript)|[풀이](./Level_2/소수찾기/solution.js)
 37|[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687?language=javascript)|[풀이](./Level_2/[3차]n진수게임/solution.js)
 38|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=javascript)|[풀이](./Level_2/문자열압축/solution.js)
+
+## Level 3
+no|Problem|Solution
+---|---|---
+1|[베스트앨범]()|[풀이](./Level_3/베스트앨범/solution.js)
