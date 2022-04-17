@@ -108,4 +108,5 @@ no|Problem|Solution
 ---|---|---
 1|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=javascript)|[풀이](./Level_3/베스트앨범/solution.js)
 2|[단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=javascript)|[풀이](./Level_3/단속카메라/solution.js)
-2|[야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927?language=javascript)|[풀이](./Level_3/야근지수/solution.js)
+3|[야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927?language=javascript)|[풀이](./Level_3/야근지수/solution.js)
+4|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|[풀이](./Level_3/멀리뛰기/solution.js)
