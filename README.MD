@@ -103,6 +103,7 @@ no|Problem|Solution
 37|[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687?language=javascript)|[풀이](./Level_2/[3차]n진수게임/solution.js)
 38|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=javascript)|[풀이](./Level_2/문자열압축/solution.js)
 39|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)|[풀이](./Level_2/가장큰정사각형찾기/solution.js)
+40|[[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686?language=javascript)|[풀이](./Level_2/[3차]파일명정렬/solution.js)
 
 ## Level 3
 no|Problem|Solution
