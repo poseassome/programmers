@@ -105,6 +105,7 @@ no|Problem|Solution
 39|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905?language=javascript)|[풀이](./Level_2/가장큰정사각형찾기/solution.js)
 40|[[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686?language=javascript)|[풀이](./Level_2/[3차]파일명정렬/solution.js)
 41|[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390?language=javascript)|[풀이](./Level_2/n^2배열자르기/solution.js)
+42|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946?language=javascript)|[풀이](./Level_2/피로도/solution.js)
 
 ## Level 3
 no|Problem|Solution
