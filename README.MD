@@ -117,3 +117,4 @@ no|Problem|Solution
 4|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|[풀이](./Level_3/멀리뛰기/solution.js)
 5|[2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900?language=javascript)|[풀이](./Level_3/2xn타일링/solution.js)
 6|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=javascript)|[풀이](./Level_3/디스크컨트롤러/solution.js)
+7|[거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907?language=javascript)|[풀이](./Level_3/거스름돈/solution.js)
