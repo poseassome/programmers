@@ -121,3 +121,4 @@ no|Problem|Solution
 7|[거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907?language=javascript)|[풀이](./Level_3/거스름돈/solution.js)
 8|[스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971?language=javascript)|[풀이](./Level_3/스티커모으기(2)/solution.js)
 9|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=javascript)|[풀이](./Level_3/단어변환/solution.js)
+10|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238?language=javascript)|[풀이](./Level_3/입국심사/solution.js)
