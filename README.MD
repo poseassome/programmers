@@ -122,3 +122,4 @@ no|Problem|Solution
 8|[스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971?language=javascript)|[풀이](./Level_3/스티커모으기(2)/solution.js)
 9|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=javascript)|[풀이](./Level_3/단어변환/solution.js)
 10|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238?language=javascript)|[풀이](./Level_3/입국심사/solution.js)
+11|[줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936?language=javascript)|[풀이](./Level_3/줄서는방법/solution.js)
