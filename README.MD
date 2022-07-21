@@ -108,6 +108,7 @@ no|Problem|Solution
 42|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946?language=javascript)|[풀이](./Level_2/피로도/solution.js)
 43|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=javascript)|[풀이](./Level_2/예상대진표/solution.js)
 44|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=javascript)|[풀이](./Level_2/튜플/solution.js)
+44|[3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902?language=javascript)|[풀이](./Level_2/3xn타일링/solution.js)
 
 ## Level 3
 no|Problem|Solution
