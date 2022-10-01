@@ -1,6 +1,13 @@
 # PROGRAMMERS 
 > 프로그래머스 문제 풀이 저장
 
+## Level 0
+no|Problem|Solution
+---|---|---
+1|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[풀이](./Level_0/나머지구하기/solution.js)
+2|[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|[풀이](./Level_0/두수의곱/solution.js)
+3|[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|[풀이](./Level_0/두수의차/solution.js)
+
 ## Level 1
 no|Problem|Solution
 ---|---|---
