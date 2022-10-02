@@ -4,9 +4,11 @@
 ## Level 0
 no|Problem|Solution
 ---|---|---
-1|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[풀이](./Level_0/나머지구하기/solution.js)
-2|[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|[풀이](./Level_0/두수의곱/solution.js)
-3|[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|[풀이](./Level_0/두수의차/solution.js)
+1|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=javascript)|[풀이](./Level_0/나머지구하기/solution.js)
+2|[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript)|[풀이](./Level_0/두수의곱/solution.js)
+3|[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=javascript)|[풀이](./Level_0/두수의차/solution.js)
+4|[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=javascript)|[풀이](./Level_0/두수의합/solution.js)
+5|[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=javascript)|[풀이](./Level_0/숫자비교하기/solution.js)
 
 ## Level 1
 no|Problem|Solution
