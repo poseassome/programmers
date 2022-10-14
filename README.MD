@@ -9,6 +9,9 @@ no|Problem|Solution
 3|[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=javascript)|[풀이](./Level_0/두수의차/solution.js)
 4|[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=javascript)|[풀이](./Level_0/두수의합/solution.js)
 5|[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=javascript)|[풀이](./Level_0/숫자비교하기/solution.js)
+6|[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=javascript)|[풀이](./Level_0/몫구하기/solution.js)
+6|[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript)|[풀이](./Level_0/나이출력/solution.js)
+6|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript)|[풀이](./Level_0/각도기/solution.js)
 
 ## Level 1
 no|Problem|Solution
