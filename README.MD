@@ -71,6 +71,7 @@ no|Problem|Solution
 53|[[1차] 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=javascript)|[풀이](./Level_1/[1차]다트게임/solution.js)
 54|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334?language=javascript)|[풀이](./Level_1/신고결과받기/solution.js)
 55|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=javascript)|[풀이](./Level_1/체육복/solution.js)
+56|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=javascript)|[풀이](./Level_1/삼총사/solution.js)
 
 ## Level 2
 no|Problem|Solution
