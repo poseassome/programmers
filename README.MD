@@ -12,6 +12,8 @@ no|Problem|Solution
 6|[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=javascript)|[풀이](./Level_0/몫구하기/solution.js)
 6|[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript)|[풀이](./Level_0/나이출력/solution.js)
 6|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript)|[풀이](./Level_0/각도기/solution.js)
+7|[두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=javascript)|[풀이](./Level_0/두수의나눗셈/solution.js)
+7|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript)|[풀이](./Level_0/양꼬치/solution.js)
 
 ## Level 1
 no|Problem|Solution
