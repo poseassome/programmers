@@ -14,6 +14,8 @@ no|Problem|Solution
 6|[각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript)|[풀이](./Level_0/각도기/solution.js)
 7|[두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=javascript)|[풀이](./Level_0/두수의나눗셈/solution.js)
 7|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript)|[풀이](./Level_0/양꼬치/solution.js)
+7|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript)|[풀이](./Level_0/짝수의합/solution.js)
+7|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=javascript)|[풀이](./Level_0/배열의평균값/solution.js)
 
 ## Level 1
 no|Problem|Solution
