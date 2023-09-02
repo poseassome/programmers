@@ -80,6 +80,7 @@ no|Problem|Solution
 57|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=javascript)|[풀이](./Level_1/개인정보수집유효기간/solution.js)
 58|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript)|[풀이](./Level_1/콜라문제/solution.js)
 59|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript)|[풀이](./Level_1/가장가까운같은글자/solution.js)
+60|[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript)|[풀이](./Level_1/크기가작은부분문자열/solution.js)
 
 ## Level 2
 no|Problem|Solution
