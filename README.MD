@@ -81,6 +81,7 @@ no|Problem|Solution
 58|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript)|[풀이](./Level_1/콜라문제/solution.js)
 59|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript)|[풀이](./Level_1/가장가까운같은글자/solution.js)
 60|[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript)|[풀이](./Level_1/크기가작은부분문자열/solution.js)
+61|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=javascript)|[풀이](./Level_1/문자열나누기/solution.js)
 
 ## Level 2
 no|Problem|Solution
