@@ -17,6 +17,7 @@ no|Problem|Solution
 11|[짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript)|[풀이](./Level_0/짝수의합/solution.js)
 12|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=javascript)|[풀이](./Level_0/배열의평균값/solution.js)
 13|[중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=javascript)|[풀이](./Level_0/중복된숫자개수/solution.js)
+14|[피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=javascript)|[풀이](./Level_0/피자나눠먹기(1)/solution.js)
 
 ## Level 1
 no|Problem|Solution
