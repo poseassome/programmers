@@ -19,6 +19,7 @@ no|Problem|Solution
 13|[중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=javascript)|[풀이](./Level_0/중복된숫자개수/solution.js)
 14|[피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=javascript)|[풀이](./Level_0/피자나눠먹기(1)/solution.js)
 15|[문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=javascript)|[풀이](./Level_0/문자열곱하기/solution.js)
+16|[n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937?language=javascript)|[풀이](./Level_0/n의배수/solution.js)
 
 ## Level 1
 no|Problem|Solution
