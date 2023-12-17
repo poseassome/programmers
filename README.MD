@@ -25,6 +25,7 @@ no|Problem|Solution
 19|[더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=javascript)|[풀이](./Level_0/더크게합치기/solution.js)
 20|[덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)|[풀이](./Level_0/덧셈식출력하기/solution.js)
 21|[flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)|[풀이](./Level_0/flag에따라다른값반환하기/solution.js)
+22|[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=javascript)|[풀이](./Level_0/두수의연산값비교하기/solution.js)
 
 ## Level 1
 no|Problem|Solution
