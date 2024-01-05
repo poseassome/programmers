@@ -27,6 +27,7 @@ no|Problem|Solution
 21|[flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)|[풀이](./Level_0/flag에따라다른값반환하기/solution.js)
 22|[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=javascript)|[풀이](./Level_0/두수의연산값비교하기/solution.js)
 23|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|[풀이](./Level_0/잘라서배열로저장하기/solution.js)
+24|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](./Level_0/다음에올숫자/solution.js)
 
 ## Level 1
 no|Problem|Solution
