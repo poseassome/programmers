@@ -29,6 +29,7 @@ no|Problem|Solution
 23|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|[풀이](./Level_0/잘라서배열로저장하기/solution.js)
 24|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](./Level_0/다음에올숫자/solution.js)
 25|[최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=javascript)|[풀이](./Level_0/최댓값만들기(1)/solution.js)
+25|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript)|[풀이](./Level_0/피자나눠먹기(3)/solution.js)
 
 ## Level 1
 no|Problem|Solution
