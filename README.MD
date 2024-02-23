@@ -31,6 +31,7 @@ no|Problem|Solution
 25|[최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=javascript)|[풀이](./Level_0/최댓값만들기(1)/solution.js)
 25|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript)|[풀이](./Level_0/피자나눠먹기(3)/solution.js)
 26|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=javascript)|[풀이](./Level_0/종이자르기/solution.js)
+27|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](./Level_0/옹알이(1)/solution.js)
 
 ## Level 1
 no|Problem|Solution
