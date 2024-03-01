@@ -29,10 +29,11 @@ no|Problem|Solution
 23|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|[풀이](./Level_0/잘라서배열로저장하기/solution.js)
 24|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](./Level_0/다음에올숫자/solution.js)
 25|[최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=javascript)|[풀이](./Level_0/최댓값만들기(1)/solution.js)
-25|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript)|[풀이](./Level_0/피자나눠먹기(3)/solution.js)
-26|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=javascript)|[풀이](./Level_0/종이자르기/solution.js)
-27|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](./Level_0/옹알이(1)/solution.js)
-27|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|[풀이](./Level_0/세균증식/solution.js)
+26|[피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript)|[풀이](./Level_0/피자나눠먹기(3)/solution.js)
+27|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=javascript)|[풀이](./Level_0/종이자르기/solution.js)
+28|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](./Level_0/옹알이(1)/solution.js)
+29|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|[풀이](./Level_0/세균증식/solution.js)
+30|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript)|[풀이](./Level_0/가장큰수찾기/solution.js)
 
 ## Level 1
 no|Problem|Solution
