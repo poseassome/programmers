@@ -35,6 +35,7 @@ no|Problem|Solution
 29|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|[풀이](./Level_0/세균증식/solution.js)
 30|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript)|[풀이](./Level_0/가장큰수찾기/solution.js)
 31|[n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|[풀이](./Level_0/n번째원소까지/solution.js)
+32|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|[풀이](./Level_0/소문자로바꾸기/solution.js)
 
 ## Level 1
 no|Problem|Solution
