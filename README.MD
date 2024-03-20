@@ -37,6 +37,7 @@ no|Problem|Solution
 31|[n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|[풀이](./Level_0/n번째원소까지/solution.js)
 32|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|[풀이](./Level_0/소문자로바꾸기/solution.js)
 33|[문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)|[풀이](./Level_0/문자열의뒤의n글자/solution.js)
+34|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[풀이](./Level_0/n보다커질때까지더하기/solution.js)
 
 ## Level 1
 no|Problem|Solution
